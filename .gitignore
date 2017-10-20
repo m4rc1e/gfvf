@@ -1,0 +1,6 @@
+*.pyc
+.DS_Store
+*vfbeta/
+env/
+venv/
+mm_src
